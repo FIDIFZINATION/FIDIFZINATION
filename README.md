@@ -39,9 +39,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=FIDIFZINATION&show_icons=true&theme=radical" alt="GitHub stats" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=FIDIFZINATION&theme=radical" alt="GitHub streaks"/>
-</p> -->
+</p> 
 
----
+--- -->
 
 ### 📫 Connect With Me
 
